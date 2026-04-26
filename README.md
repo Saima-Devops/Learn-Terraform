@@ -24,10 +24,13 @@ Instead of manually creating cloud resources, Terraform lets you describe your i
 
 Terraform follows a simple workflow:
 
-**Write** – Define infrastructure in .tf files\
-**Plan** – Preview changes before applying\
-**Apply** – Provision infrastructure safely\
-**Manage** – Update or destroy resources when needed
+- **Write** – Define infrastructure in .tf files
+  
+- **Plan** – Preview changes before applying
+
+- **Apply** – Provision infrastructure safely
+
+- **Manage** – Update or destroy resources when needed
 
 ---------
 
