@@ -57,3 +57,8 @@ resource "aws_instance" "example" {
 
 
 ----
+
+## Author
+**Saima Usman** \
+Jr. DevOps & Cloud Engineer 
+

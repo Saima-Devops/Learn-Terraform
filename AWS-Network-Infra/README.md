@@ -119,7 +119,7 @@ aws sts get-caller-identity
 ## Project Structure
 
 ```text
-terraform-network/
+AWS-Network-Infra/
 │
 ├── provider.tf
 ├── vpc.tf
@@ -312,7 +312,7 @@ By completing this project, you will gain hands-on experience with:
 ---
 
 ## Author
-Saima Usman
-Jr. DevOps & Cloud Engineer
+**Saima Usman** \
+Jr. DevOps & Cloud Engineer 
 
 Created as a foundational Infrastructure as Code project for AWS cloud networking and Terraform automation.
