@@ -166,8 +166,8 @@ Contains:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd terraform-network
+git clone https://github.com/Saima-Devops/Learn-Terraform.git
+cd AWS-Network-Infra
 ```
 
 ---
