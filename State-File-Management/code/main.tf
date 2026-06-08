@@ -2,7 +2,7 @@
 terraform {
   required_providers {
     aws = {
-      source = "hashicorp/aws"
+      source  = "hashicorp/aws"
       version = "~> 6.0"
     }
   }
@@ -10,17 +10,17 @@ terraform {
 
 provider "aws" {
   # Configuration options
-    region = "us-east-1"
+  region = "us-east-1"
 }
 
 # backend configuration
 terraform {
   backend "s3" {
-    bucket         = "terraform-state-1780863891"
-    key            = "dev/terraform.tfstate"
-    region         = "us-east-1"
-    use_lockfile  = "true"
-    encrypt        = true
+    bucket       = "terraform-state-1780863891"
+    key          = "dev/terraform.tfstate"
+    region       = "us-east-1"
+    use_lockfile = "true"
+    encrypt      = true
   }
 }
 
