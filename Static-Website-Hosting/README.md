@@ -153,6 +153,11 @@ After completing this project, you should understand:
 - ✅ Terraform file provisioning with `for_each`
 - ✅ Proper MIME type configuration for web assets
 - ✅ AWS CDN concepts and caching strategies
+- ✅ Statefile Backup in a separate s3 Bucket
+
+![alt text](<screenshots/Screenshot 2026-06-09 at 5.02.58 PM.png>)
+
+----
 
 ## 🔗 Useful Links
 
