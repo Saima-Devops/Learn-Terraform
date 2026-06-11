@@ -1,0 +1,6 @@
+ami_id          = "aami-0152204c1a187337c"
+region          = "us-east-1"
+environment     = "dev"
+instance_count  = 1
+instance_type   = "t3.micro"
+app_bucket_prefix = "tf-aws-webserver-app"
